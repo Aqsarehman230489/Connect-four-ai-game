@@ -1,8 +1,8 @@
-# 🔴🟡 Connect Four AI: A Minimax Approach
+# Connect Four AI: A Minimax Approach
 
 This is a Python-based Connect Four game where a **human player (RED)** plays against an **AI (YELLOW)** powered by the **Minimax algorithm with Alpha-Beta Pruning**. The game was developed as a project for **CPTR 430 Artificial Intelligence** at Walla Walla University.
 
-## 🎮 Game Overview
+## Game Overview
 
 Connect Four is a two-player connection game on a **6x7 board**. The goal is to strategically insert tokens into columns to **connect four** in a **row, column, or diagonal**.
 
@@ -11,11 +11,6 @@ Connect Four is a two-player connection game on a **6x7 board**. The goal is to 
 - The game includes **animated token drops**, **move counters**, and a **starry night background**.
 - After every match, a **winner or tie screen** is displayed.
 
-### 👾 Game Fact
-
-> Connect Four is a solved game. With perfect play, the first player (the AI in this case) will always win.
-
----
 
 ## 🧠 AI Logic: Minimax + Alpha-Beta Pruning
 
