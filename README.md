@@ -1,6 +1,6 @@
 # Connect Four AI: A Minimax Approach
 
-This is a Python-based Connect Four game where a **human player (RED)** plays against an **AI (WHITE)** powered by the **Minimax algorithm with Alpha-Beta Pruning**. The game was developed as a project for **CPTR 430 Artificial Intelligence** at Walla Walla University.
+This is a Python-based Connect Four game where a **human player (RED)** plays against an **AI (WHITE)** powered by the **Minimax algorithm with Alpha-Beta Pruning**. The game was developed as a semester project for the Artificial Intelligence course at Air University.
 
 ## Game Overview
 
