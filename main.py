@@ -1,7 +1,4 @@
 
-# Problem:
-# Create a Connect Four game and implement an AI bot that uses minimax algorithm with alpha-beta pruning
-
 from fourInARowGUI import fourInARowGUI as GUI
 
 infinity = float('inf')
